@@ -1,3 +1,5 @@
+This is a list of papers and other resources used through this project. 
+
 Steven Locke, Heng Li, Tse-Hsun (Peter) Chen, Weiyi Shang and Wei Liu, LogAssist: Assisting Log Analysis Through Log Summarization. Available: https://users.encs.concordia.ca/~shang/pubs/TSE2021_LogAssist.pdf
 
 Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. Tools and Benchmarks for Automated Log Parsing. International Conference on Software Engineering (ICSE), 2019.
