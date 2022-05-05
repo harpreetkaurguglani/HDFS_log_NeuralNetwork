@@ -1,7 +1,7 @@
 ## Log File Processing and Anomaly Detection on HDFS Log Dataset
 
 #### Data 586: Advanced Machine Learning: Final Report
-Harpreet Kaur Guglani & Kristy Phipps
+Harpreet Kaur and Kristy Phipps
 
 The challenge of processing log files for anomaly detection was undertaken as part of a final paper and project. This project was completed during the Master of Data Science (MDS) degree at UBC and was completed over a four week period concurrent with our coursework for Data 586 - Advanced Machine Learning. 
 
